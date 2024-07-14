@@ -1,0 +1,9 @@
+PROMPT:
+
+Good Morning
+
+==========
+
+RESPONSE:
+
+Good morning! I hope you're having a great start to your day. How can I help you today?

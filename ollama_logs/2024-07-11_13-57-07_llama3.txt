@@ -1,0 +1,17 @@
+PROMPT:
+
+The quick brown fox
+
+==========
+
+RESPONSE:
+
+The classic sentence!
+
+"The quick brown fox" is a well-known pangram, which means it uses all the letters of the alphabet at least once. This makes it a popular choice for demonstrating font styles, testing keyboard layouts, and even as a typing exercise.
+
+In fact, this sentence is often referred to as the "ultimate pangram" because it's a complete English sentence that uses every letter of the alphabet in its 20 characters:
+
+The quick brown fox jumps over the lazy dog.
+
+Do you have a special connection to this sentence, or are you just curious about its significance?

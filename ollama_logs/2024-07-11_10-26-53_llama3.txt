@@ -1,0 +1,9 @@
+PROMPT:
+
+Good Morning
+
+==========
+
+RESPONSE:
+
+Good morning! How are you today?
