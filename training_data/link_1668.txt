@@ -1,0 +1,36 @@
+Installation and maintenance of cabling infrastructure in support of telecommunications services such as telephone, internet and cable television.  This service includes both inside-building cabling, as well as between-building (outside plant) cabling for delivery of networked services.  
+To request new cabling or for changes to existing cabling infrastructure please submit a Telecom Service Request.
+Installation and maintenance of emergency phones for use across the campuses for the safety of the College Community. The request for new emergency phones must originate from the Campus Administration.
+Site Survey Complete within (5) days. Installation schedule will be impacted by the scope of the request and available telecommunications facilities and equipment at the desired locations.
+The College utilizes Microsoft Hosted Exchange Services and Sonicwall anti spam virtual appliances to identify spam.
+Emails identified as spam are kept for 7 days at myspam.mdc.edu.
+Some forms reside in a different area or outside of this website. Click on one the following links to access the forms.
+Adobe Sign New User Group Request Form
+
+Access Request/Change Form, Airline Ticket Release Form, Approval Path Request 
+                  Form, Cash Remittance Report and others.
+
+Use this form to request a Network ID for a non-employee or Intern. 
+
+Use this form to request external DNS changes
+
+
+Use this form to request external file sharing access.
+
+
+Use this form to request firewall changes.
+
+Use this form to request an IT Project at Miami Dade College.
+Mobile Communication Stipend Activation/Termination Form
+
+Use this form to request a Mobile Communication Stipend.
+Use this form to request a Remote Lab.
+This questionnaire must be completed by the vendor
+Use this form to request a departmental Sharepoint site.
+
+Use this form to request a Virtual Machine.
+
+
+Use this form to request consultant or hourly employee access to the VPN.
+Use this form to request workstations for District IT employees.
+Miami Dade College is an equal access/equal opportunity institution which does not discriminate on the basis of sex, race, color, marital status, age, religion, national origin, disability, veteran’s status, ethnicity, pregnancy, sexual orientation or genetic information. To obtain more information about the College’s equal access and equal opportunity policies, procedures and practices, please contact the College’s Equity Officer: Cindy Lau Evans, Director, Office of Equal Opportunity Programs and ADA Coordinator, at (305) 237-2577 (Voice) or 711 (Relay Service). 11011 SW 104 St., Room 1102-01; Miami, FL 33176. EquityOff@mdc.edu

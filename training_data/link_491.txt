@@ -1,0 +1,10 @@
+General/Non-Financial aid refunds due to overpayment are generally processed on Wednesdays.
+Original form of payment determines how system processes the refund, refer to the matrix below.
+If the overpayment is funded by a paper check or e-check payment there is a 14-day encumbrance from the payment date before a refund can be generated.
+Refunds for students with FH1, F16 or F65 service indicators are processed through accounts payable and would therefore receive a physical check delivered by USPS.
+For refunds issued via Bank Mobile Disbursements, a technology solution, powered by BTMX, Inc, the refund preference you selected will determine when your funds are available. 
+                Visit this link for more information: https://bankmobiledisbursements.com/refundchoices/
+For refunds returned to your Credit/Debit card, refund will reflect on your bank statement 7-10 business days from the refund date on your student account.
+For paper check refund from Miami Dade College, Accounts Payable sends out checks by Friday of the week in which your refund was generated.  It can take up to 14 business days for the USPS mail to reach your mailbox.
+You may contact the Bursar's office at 305-237-9310
+Miami Dade College is an equal access/equal opportunity institution which does not discriminate on the basis of sex, race, color, marital status, age, religion, national origin, disability, veteran’s status, ethnicity, pregnancy, sexual orientation or genetic information. To obtain more information about the College’s equal access and equal opportunity policies, procedures and practices, please contact the College’s Equity Officer: Cindy Lau Evans, Director, Office of Equal Opportunity Programs and ADA Coordinator, at (305) 237-2577 (Voice) or 711 (Relay Service). 11011 SW 104 St., Room 1102-01; Miami, FL 33176. EquityOff@mdc.edu

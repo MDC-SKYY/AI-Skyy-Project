@@ -1,0 +1,79 @@
+Explore the Programs at Miami Dade College
+The Internet of Things (IoT), refers to software and sensors that are collecting and sharing data through the internet to control smart watches, cars, and the various devices found in smart homes. Increasingly, the IoT is being used across many industries, ranging from healthcare to agriculture. 
+As the IoT and other computer-driven technologies raise the level of sophistication and connectivity in products, workers with highly specialized software skills have become increasingly valuable to  employers. The IoT Applications College Credit Certificate prepares students with multidisciplinary workforce skills  and provides an accelerated credential that addresses the local demand for skilled workers. 
+                Program Details
+Students learn how to develop applications that run on microcontroller development boards, design and simulate the function of devices and build physical prototypes. Upon completion of the program, students will have learned how to develop applications in the dominant programing languages used in IoT, completed projects that they can include in their portfolio and configured different single board computers. 
+
+ 
+
+
+
+Estimated tuition cost:
+
+
+
+Program credits:
+
+
+
+Estimated time to complete:
+
+
+
+
+
+ To earn the CCC in Internet of Things Applications, students must complete all 6 courses (24 credits) in the program.
+Courses: 
+
+Introduction      to Computer Technology and Applications
+Introduction      to C++ Programming
+C/C++      Programming for Embedded Devices
+Design      and Prototyping of Connected Devices
+Introduction      to programming the Internet of Things (IoT)
+Internet      of Things (IoT) Development with C#
+
+Areas of study:
+
+Embedded      Devices
+Development      Boards
+Programming      in languages such as Python, C++, C and C#
+Integration      Development Environment
+Design      Thinking
+IoT      Applications
+
+
+
+Career Prospects
+The IoT Applications program  prepares graduates for career opportunities such as:
+
+
+
+IoT programmer
+IoT developer
+IoT consultant
+Product Application Assistant
+
+
+
+
+Rapid Prototyping Assistant
+Connected Devices Support Specialist
+Embedded Software Developer
+Embedded Application Programmer
+
+
+
+Program Location
+
+
+Students learn how to develop applications that run on microcontroller development boards, design and simulate the function of devices and build physical prototypes. Upon completion of the program, students will have learned how to develop applications in the dominant programing languages used in IoT, completed projects that they can include in their portfolio and configured different single board computers. 
+
+ 
+ To earn the CCC in Internet of Things Applications, students must complete all 6 courses (24 credits) in the program.
+Courses: 
+Areas of study:
+
+The IoT Applications program  prepares graduates for career opportunities such as:
+Ready to take the first step? Applying to the College is quick and easy. Get started today.
+Advisors are available to assist you by providing general information about MDC's programs and services.
+Miami Dade College is an equal access/equal opportunity institution which does not discriminate on the basis of sex, race, color, marital status, age, religion, national origin, disability, veteran’s status, ethnicity, pregnancy, sexual orientation or genetic information. To obtain more information about the College’s equal access and equal opportunity policies, procedures and practices, please contact the College’s Equity Officer: Cindy Lau Evans, Director, Office of Equal Opportunity Programs and ADA Coordinator, at (305) 237-2577 (Voice) or 711 (Relay Service). 11011 SW 104 St., Room 1102-01; Miami, FL 33176. EquityOff@mdc.edu

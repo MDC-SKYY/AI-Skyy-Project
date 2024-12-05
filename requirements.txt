@@ -117,6 +117,7 @@ jupyterlab-widgets==3.0.8
 keyring==24.2.0
 langchain==0.0.228
 langchainplus-sdk==0.0.20
+llama-index==0.10.50
 lxml==4.9.3
 lz4==4.3.2
 Markdown==3.4.3
@@ -150,6 +151,7 @@ onnxruntime==1.15.1
 openai==0.27.6
 openapi-schema-pydantic==1.2.4
 openpyxl==3.1.2
+ollama==0.2.1
 outcome==1.2.0
 overrides==7.3.1
 packaging==23.1

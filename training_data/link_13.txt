@@ -1,0 +1,13 @@
+Professional cybersecurity training for organizations and individuals
+
+
+
+Similar to a flight simulator, our Cyber Range is a sophisticated virtual environment designed to train cybersecurity professionals in the most realistic way possible. Cyberattacks are unleashed within this virtual network forcing trainees to utilize multiple tools and techniques to mitigate the attack. No walking through a lab exercise here, it is either sink or swim. Know what to do and mitigate the attack or see your entire network come down while your sensitive information gets compromised.
+Includes some of today’s most advanced attacks including Ransomware, SQL Injection, Man-in-the-Middle, DDoS and many others. New scenarios constantly added to ensure trainees face the latest generation of attacks.
+Trainees use real security tools including firewalls, SIEMs, intrusion detection and prevention systems, packet analyzers, network monitoring systems, endpoint security and more to mitigate the attacks.
+Attacks occur within a fully functioning IP network that includes multiple segments, servers, databases, and operating systems.
+Advanced Traffic Generator floods the network with routine traffic making it more challenging for teams to identify malicious actors and content while avoiding false positives.
+Once an attack is complete, trainees are able to review all the attack characteristics.
+Complex multi-layered attacks are unleashed with the push of a button allowing trainees to maximize their training sessions.
+Similar to the real-world where IT teams are located throughout multiple locations, the Cyber Range can be accessed from anywhere allowing professionals to take part in the same training exercise no matter where they are based.
+Miami Dade College – Wolfson CampusBuilding 2, Room 2103-06300 NE Second Ave.Miami, FL 33132(305) 237-3626cybersecuritycenter@mdc.edu

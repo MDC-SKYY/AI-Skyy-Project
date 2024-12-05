@@ -1,0 +1,33 @@
+Professional cybersecurity training for organizations and individuals
+
+
+Get a digital badge that you can share across professional networks
+These non-credit courses are available to students of all skills levels and can be taken independently of each other.
+An introductory level course that expands into areas such as networking, cloud computing, coding, and incident response to provide a more complete overview of the many tools, tactics, and techniques used in cyberattacks. This course provides an excellent foundation to prepare you for the advanced Cyber Range courses.
+Learn more about Foundations of Cybersecurity and register.
+
+This is an introductory level course offered by MDC in partnership with IBM. The course provides an overview of the cybersecurity field and the workings of a Security Operations Center including an overview of the current threat landscape, types of malware, and key security tools.
+Learn more about IBM Cybersecurity and register.
+
+Cyber Range courses are advanced non-credit courses focused on providing students the critical hands-on skills needed to be a cybersecurity professional. In these courses, students will be placed in a real-world environment and tasked with using industry-leading security tools in order to learn how to respond to a cyberattack.
+Learn more about the MDC Cyber Range
+This is an advanced level course focused on stopping denial-of-service attacks. The course is fully hands-on and includes working with firewalls, writing rules in intrusion detection/prevention systems, and performing network forensics. This course requires cybersecurity foundational knowledge.
+Learn more about DDoS and register.
+  
+This is an advanced level course focused on responding to a multi-faceted web server attack. The course is fully hands-on and includes investigating SIEM alerts, using Linux tools, working with Apache servers and performing forensic investigations. This course requires cybersecurity foundational knowledge.
+Learn more about Web Misconfiguration and register.
+
+See all open courses
+MDC cybersecurity digital badges are an indicator of a demonstrated accomplishment or skill that can be displayed, shared and verified online. These badges are meaningful, high-quality and represent in-demand industry and workplace competencies.
+You get a digital badge when you complete all the course requirements, including a final assessment for the Cyber Range courses.
+MDC cybersecurity digital badges can be displayed and shared across a large number of social networking sites thereby showing potential employers the various skills you possess.
+Yes. Anyone can click on your MDC cybersecurity digital badge online and see what the badge represents, the skills you demonstrated to earn it, and much more information.
+No. You can start with any digital badge course and take them in any order you would like. However, the advanced level cyber range courses are highly technical and require foundational cybersecurity knowledge. If you do not have prior cybersecurity education and/or experience, we highly recommend you begin with the introductory level courses.
+They are unique because in addition to learning about important concepts and tools, you will also be asked to mitigate one or more cyberattacks in real-time. Defending against a full-scale attack requires you to know about networking, operating systems, hardware, coding, security tools, and more. Earning a badge for these courses shows that you possess many of the skills needed to be a cybersecurity professional.
+Yes. The MDC Cyber Range uses real security tools such as Palo Alto Network firewalls, IBM QRadar, Snort, Wireshark, McAfee, Zenoss, and more.
+No. All of these courses are non-credit courses.
+No. None of the classes can be recorded.
+The IBM Cybersecurity Practitioner course is an introductory level course that exposes students to the area of cybersecurity and the workings of a Security Operations Center. It provides an overview of the current threat landscape, types of malware, and key security tools. The Foundations of Cybersecurity course expands into areas such as networking, cloud computing, and coding in order to teach additional skills used by cybersecurity professionals.
+Yes. New courses will be added with different cyber attacks.
+The MDC Cyber Range currently has more than 25 cyber attacks including attacks such as Ransomware, DDoS, Trojans, Worms, Man-in-the-Middle, SQL injection, etc.
+Miami Dade College – Wolfson CampusBuilding 2, Room 2103-06300 NE Second Ave.Miami, FL 33132(305) 237-3626cybersecuritycenter@mdc.edu

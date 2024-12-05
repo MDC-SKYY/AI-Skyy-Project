@@ -1,0 +1,20 @@
+Prof. Barry Andrews
+Cloud IT, Windows Client/Server Application, and Networking 
+
+Dr. Elodie Billionniere
+(Cloud) Databases and Big Data, Cloud IT, and Programming (Python, Java)
+
+Dr. Nelly Delessy
+(Cloud) Cybersecurity, Programming (C++, Java), and Operating Systems
+
+Prof. John Maloney 
+Cloud IT, Cybersecurity, Programming (C++, C#, VB) 
+Prof. Lawrence Meyer, Jr.
+Cloud IT, Mobile Application, and Programming (C++)
+Dr. Diego Tibaquirá 
+Cloud IT, Cybersecurity, and Networking 
+
+Prof. Adnan Zejnilovic
+Cloud IT, Databases, and Programming (C++, Java) 
+
+Miami Dade College is an equal access/equal opportunity institution which does not discriminate on the basis of sex, race, color, marital status, age, religion, national origin, disability, veteran’s status, ethnicity, pregnancy, sexual orientation or genetic information. To obtain more information about the College’s equal access and equal opportunity policies, procedures and practices, please contact the College’s Equity Officer: Cindy Lau Evans, Director, Office of Equal Opportunity Programs and ADA Coordinator, at (305) 237-2577 (Voice) or 711 (Relay Service). 11011 SW 104 St., Room 1102-01; Miami, FL 33176. EquityOff@mdc.edu

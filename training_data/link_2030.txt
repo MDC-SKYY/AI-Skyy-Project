@@ -1,0 +1,22 @@
+Professional cybersecurity training for organizations and individuals
+
+
+MDC's School of Engineering and Technology has designed its cybersecurity degree programs and curricula to provide students with exciting opportunities, the highest quality education, and a variety of options to achieve success. Through the programs described below, our students are able to find an education that best suits their cybersecurity needs.
+Associate in Science
+The AS in Cybersecurity is a National Security Agency (NSA) validated program that granted Miami Dade College the designation as a National Center of Academic Excellence in Cyber Defense (CAE-CD). Students graduating from the program receive the NSA validation in their transcript.
+The Cybersecurity AS prepares students for the critical and growing need for cybersecurity personnel through hands-on experience along with simulation training and group/team-based learning to simulate a professional work environment.
+Students in this program will be prepared for the following industry certifications: CompTIA CySA+, Security+, Network+ and Linux+. 
+Bachelor of Science
+MDC’s Bachelor of Science in Cybersecurity is validated by the NSA based on the program’s rigorous curriculum standards and academic delivery excellence. The program equips students with the cutting-edge knowledge, hands-on skills and industry certifications to meet the increasing workforce demands of South Florida employers and beyond.
+The program’s comprehensive curriculum includes coursework in ethical hacking, information security management, network defense, penetration testing, computer forensics, risk management and ethics in cybersecurity. Students graduating from the Bachelor’s degree receive the explicit NSA validation in their transcript.
+College Credit Certificate
+The digital global expansion has created an unprecedented demand for skilled professionals in cybersecurity. Job vacancies in this field often remain unfilled due to high demand. That's where the Cybersecurity Analyst Certificate program comes in, designed to help you prepare to bridge this gap and join the ranks of professionals safeguarding organizations and their customers. This program offers the knowledge and skills needed for securing systems, evaluating risk, detecting threats, and responding to cyberattacks to prevent catastrophic losses.
+Students in this program will be prepared for the following industry certifications: Network Technologies, Linux+, Secure Scripting, Cybersecurity Analysis and Network Defense Countermeasures.
+Certificate of Professional Preparation
+Professionals in the role of defense analyze cybersecurity events and mitigate potential cyberattacks and data breaches. The Certificate of Professional Preparation (CPP) in Cyber Defense is designed for current and pre-professionals interested in working in the field of cybersecurity operations.
+Certificate of Professional Preparation
+The Certificate of Professional Preparation (CPP) in Vulnerability Assessment will prepare you with the skills needed to protect and defend an organization’s information system from threats. You will learn a variety of methods to assess the security health of applications, systems, and networks against vulnerabilities and recommend appropriate mitigation countermeasures against potential cyberattacks and data breaches.
+
+In addition to degree programs, learn how to get more engaged with cybersecurity at MDC.
+Get Involved
+Miami Dade College – Wolfson CampusBuilding 2, Room 2103-06300 NE Second Ave.Miami, FL 33132(305) 237-3626cybersecuritycenter@mdc.edu

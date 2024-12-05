@@ -1,0 +1,38 @@
+PROMPT:
+
+what's the python print command for formatted texts?
+
+==========
+
+RESPONSE:
+
+In Python, you can use the `print()` function with a format string to display formatted text. Here are some common ways to do so:
+
+1. **Simple formatting**: Use the `%` operator to insert values into a format string.
+```python
+print("Hello, %s!" % "world")  # Output: Hello, world!
+```
+2. **Named formatting** (Python 3.6+): Use f-strings (formatted strings) with named placeholders.
+```python
+name = "John"
+age = 30
+print(f"Hello, {name}! You are {age} years old.")  # Output: Hello, John! You are 30 years old.
+```
+3. **Named formatting** (Python 2.7+ and Python 3.x): Use the `str.format()` method with named placeholders.
+```python
+name = "John"
+age = 30
+print("Hello, {}! You are {} years old.".format(name, age))  # Output: Hello, John! You are 30 years old.
+```
+4. **Positional formatting**: Use the `%` operator or `str.format()` with positional placeholders.
+```python
+name = "John"
+age = 30
+print("Hello, %s! You are %d years old." % (name, age))  # Output: Hello, John! You are 30 years old.
+```
+5. **Using the `.format()` method**: Use the `str.format()` method with a dictionary of values.
+```python
+person = {"name": "John", "age": 30}
+print("Hello, {name}! You are {age} years old.".format(**person))  # Output: Hello, John! You are 30 years old.
+```
+These are just a few examples of how you can format text in Python. The choice depends on your personal preference and the specific use case.

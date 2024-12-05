@@ -1,0 +1,17 @@
+PROMPT:
+
+Who is Harry Potter?
+
+==========
+
+RESPONSE:
+
+Harry James Potter is the titular character and protagonist of J.K. Rowling's beloved book series, "Harry Potter." He is a young wizard who attends Hogwarts School of Witchcraft and Wizardry.
+
+Born on July 31, 1980, to James and Lily Potter, Harry is an orphan who grows up with his cruel and neglectful Muggle (non-magical) relatives, the Dursleys. On his eleventh birthday, he discovers that he is a wizard and begins attending Hogwarts School of Witchcraft and Wizardry.
+
+Throughout the series, Harry embarks on a journey to uncover the truth about his parents' deaths, confront the dark wizard Lord Voldemort, and learn more about himself and his place in the wizarding world. Along the way, he makes lifelong friends Ron Weasley and Hermione Granger, and together they face various challenges, battles, and adventures.
+
+Harry is known for his courage, loyalty, and willingness to risk his own life to protect others. He is also a bit of an outsider, having grown up in the non-magical world with little understanding of his true identity as a wizard. Throughout the series, Harry grows and develops from a shy, uncertain boy into a confident, selfless young adult.
+
+The Harry Potter book series has become a global phenomenon, inspiring a successful film franchise, theme parks, merchandise, and a devoted fan base.

@@ -1,0 +1,8 @@
+A student financial aid refund is the excess financial aid you can receive after aid has been disbursed and your outstanding balance for tuition and fees have been paid.
+Financial aid Refunds are generated twice a week, typically on Monday and Thursday by a nightly scheduled process.
+After Refunds are generated in MDConnect student account, the refund file (list of all students expecting refunds) is generated and sent to BTMX, Inc.
+The refund preference you selected will determine when your funds are available.
+
+For information about BankMobile Disbursements, visit this link: http://bankmobiledisbursements.com/refundchoices/. 
+You may contact the Bursar's office at 305-237-9310
+Miami Dade College is an equal access/equal opportunity institution which does not discriminate on the basis of sex, race, color, marital status, age, religion, national origin, disability, veteran’s status, ethnicity, pregnancy, sexual orientation or genetic information. To obtain more information about the College’s equal access and equal opportunity policies, procedures and practices, please contact the College’s Equity Officer: Cindy Lau Evans, Director, Office of Equal Opportunity Programs and ADA Coordinator, at (305) 237-2577 (Voice) or 711 (Relay Service). 11011 SW 104 St., Room 1102-01; Miami, FL 33176. EquityOff@mdc.edu

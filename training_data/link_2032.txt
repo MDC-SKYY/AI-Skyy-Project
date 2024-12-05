@@ -1,0 +1,15 @@
+Professional cybersecurity training for organizations and individuals
+
+
+Industry certification courses prepare you for some of the most widely-recognized certification exams. Passing a certification exam earns you a valuable credential, demonstrates that you have the skills and knowledge needed to be successful, and can help advance your career since they are valued by many employers.
+You can prepare for industry certification exams through non-credit classes or as part of a degree program. See below for more information about the classes offered.
+Course teaches the fundamentals of cybersecurity while preparing students for the CompTIA Security+ certification exam. Course topics include cyberattack types, security tools and techniques, network security architecture, and basics of cryptography. Course also provides exposure to the state-of-the-art Cyber Range for demonstration purposes.
+Learn more about Security+. 
+Course focuses on the techniques and strategies utilized for ethical hacking/penetration testing while preparing students for the EC-Council Certified Ethical Hacker (CEH) exam. Course helps students understand how to better asses system vulnerabilities, design more secure network environments, and utilize a number of security tools. Course also provides the opportunity to use the state-of-the-art Cyber Range to gain additional hands-on experience.
+Learn more about Certified Ethical Hacker. 
+Course prepares students for the Microsoft SC-900 certification exam. Course focuses on the fundamentals of security, compliance, and identity and access management across Microsoft products and services including Microsoft Azure and Microsoft 365.
+Course is being offered for free for a limited time!
+Learn more about Microsoft SC-900 and how you can take this course for free.
+Learn more about how you can earn industry certifications through degree programs.
+View list of classes
+Miami Dade College – Wolfson CampusBuilding 2, Room 2103-06300 NE Second Ave.Miami, FL 33132(305) 237-3626cybersecuritycenter@mdc.edu

@@ -1,0 +1,37 @@
+Below you will find information regarding technology supported tools and proctors.
+Additionally, current MDC students, faculty, and staff may borrow mobile devices and equipment, such as laptops, tablets, and more.
+Examity is the world’s leading solution for learning validation. They work with colleges, universities, employers, and certification providers to create secure, high-quality educational experiences – and ensure that learners who play by the rules are honored for their work. Learn more here.
+This video introduces students to the Examity experience for ACCUPLACER, from registration to exam launch. 
+You will find: user guides, contact information, FAQs, and more!
+What is Honorlock?
+Honorlock upholds academic integrity with online exam proctoring that’s monitored by AI and reviewed by humans. This software and live test proctors make the technical proctoring experience simple, easy, and human.
+This proctored testing software monitors the exam session for potential academic dishonesty and alerts a live proctor to join the student’s session in real-time if it detects any issues. This blend of AI and human review delivers a less intimidating and non-invasive proctored testing experience for the student because they aren’t constantly watched.
+When done right, proctored testing creates a non-invasive and equitable environment for testing, holding everyone accountable to do their best work.
+HonorPrep:
+Use HonorPrep, a 7 minute guided tour to help you get more familiar with Honorlock.  
+Here's what to expect from this tour: 1) System Check, 2) How Honorlock Works, 3) Authentication, and 4) During Your Exam.
+MDC Honorlock Pilot:
+This proctoring tool is managed by the Office of Assessment, Evaluation, and Testing, for those authorized to proceed with this service. Honorlock services are currently limited to authorized faculty participating in a small pilot implementation at Miami Dade College.
+View faculty resources for Honorlock
+Get Help and Support:
+Resources:
+An online exam proctoring solution that offers a secure and cost-effective alternative to test centers. ProctorU offers proctoring services that employ a wide array of technology, including fully automated Artificial Intelligence (AI), and live-proctor review.
+*Chromebooks are not supported by ProctorU. Please notify your instructor if you do not have access to a windows or mac desktop or laptop.
+Miami Dade College currently offers two Respondus proctoring solutions. One locks down students' browser windows during an exam, so they cannot access other sites. The other can be configured to record students while they are taking a test and flag certain behaviors to review later. 
+View faculty resources for Respondus
+Respondus LockDown Browser is a custom browser that locks down the testing environment within a learning management system (Blackboard). It locks down student computers to prevent cheating during exams.
+Respondus  Monitor builds upon the power of Respondus LockDown Browser, using a student’s webcam and industry-leading video analytics to prevent cheating during non-proctored exams. It integrates seamlessly with Blackboard. Students access exams within Blackboard as they normally would. After a quick one-time installation, Respondus Monitor will auto-launch from the student's browser (Chrome, Firefox, Safari, IE) whenever the exam settings require it. Students are then guided through a pre-exam sequence, including a webcam check. 
+Privacy is central to the Respondus Monitor architecture. It minimizes the personal data being collected, uses an automated system to analyze it, and then restricts access to the results. Read how Respondus Monitor handles data privacy here.
+Accessibility with LockDown Browser & Respondus Monitor
+Students using a Chromebook will need to use the regular LockDown Browser installation link which will direct the student to the Chrome web store, at which point they should select “Add to Chrome” to install the LockDown Browser Extension.  Find out more details including limitations and/or known issues with LockDown Browser for Chromebook. Disclaimer: Use at your own risk.  Borrow a Mobile Device.
+Note: 
+When taking an online test, follow these guidelines:
+Several resources are available if you encounter problems with Respondus LockDown Browser. For the most immediate, direct help, contact Respondus directly by filling out a ticket.
+Respondus offers 24/7 support, and has also posted trouble-shooting steps, FAQs, and knowledge base articles.
+Ways to access their Help Center:
+If you have a midterm or final exam in one or more of your classes, you may need to use a technology-supported tool and/or proctor. Contact your instructor for additional details specific to your course.
+Depending on the class, you will have one or more of these options for technology-supported remote proctoring:
+Proctored Exam Dates
+*All MDC Online classes (RM and RLB not available); very few and select classes that transitioned to remote learning.
+Schedule Now
+Submit Satisfaction Survey

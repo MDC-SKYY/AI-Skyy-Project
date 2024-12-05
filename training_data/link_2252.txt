@@ -1,0 +1,11 @@
+Professional cybersecurity training for organizations and individuals
+
+
+Course focuses on the techniques and strategies utilized for ethical hacking/penetration testing while preparing students for the EC-Council Certified Ethical Hacker (CEH) exam. Course helps students understand how to better asses system vulnerabilities, design more secure network environments, and utilize a number of security tools. Course also provides the opportunity to use the state-of-the-art Cyber Range to gain additional hands-on experience.
+Includes: Instructor, courseware, 6-month iLabs subscription, and exam voucher
+Register for Certified Ethical Hacker (CEH)
+Course prepares students for the Microsoft SC-900 certification exam. Course focuses on the fundamentals of security, compliance, and identity and access management across Microsoft products and services including Microsoft Azure and Microsoft 365.
+Course is being offered for free for a limited time!
+Learn more about Microsoft SC-900 and how you can take this course for free.
+For any questions or additional information, please contact us at cybersecuritycenter@mdc.edu
+Miami Dade College – Wolfson CampusBuilding 2, Room 2103-06300 NE Second Ave.Miami, FL 33132(305) 237-3626cybersecuritycenter@mdc.edu
